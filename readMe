@@ -1,0 +1,7 @@
+Technology used
+1. TestNg
+2. Selenuim webdriver
+3. Java
+
+Note. Please execute test test case as testNg test case 
+ Test case name : TC_1_Demo
